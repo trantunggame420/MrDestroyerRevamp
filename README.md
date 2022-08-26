@@ -11,4 +11,5 @@ Yes! MrDestroyer brings you a best possible free script hub ever, many and many 
 We have reached our limits for free MrDestroyer, introduce you MrDestroyer Premium! More games, faster updates, more advanced features
 # Community
 Want a community to chat with and getting all details about MrDestroyer and our product?
-Join Our Discordd! https://discord.gg/sDkaFhkCJu
+
+Join Our Discord! https://discord.gg/sDkaFhkCJu
