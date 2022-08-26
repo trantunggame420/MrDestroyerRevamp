@@ -13,3 +13,5 @@ We have reached our limits for free MrDestroyer, introduce you MrDestroyer Premi
 Want a community to chat with and getting all details about MrDestroyer and our product?
 
 Join Our Discord! https://discord.gg/sDkaFhkCJu
+
+#(THIS IS BEEN RUSHED SO ANY DETAILS ARE HARDER TO READ OR UNDERSTAND)
