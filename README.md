@@ -5,7 +5,7 @@ NOTE: This is the official Github about MrDestroyer: Revamp
 Mr Destroyer: Revamped is the newest latest version about MrDestroyer Hub V2 (Project Destroyer: https://github.com/MrDestroyerSkid/Project-Destroyer) providing you everything we promised!
 
 # What's Improvement?
-Better secure, more scripts feature, faster, optimized, more multiple game supported, specified API (like custom API functions from scriptware or synapse), advanced script and op.
+Better secure, more scripts feature, faster, optimized, more multiple game supported, custom API functions supported, advanced script and op.
 # Are they free?
 Yes! MrDestroyer brings you a best possible free script hub ever, many and many games that you can uses on!
 # Are there special offer?
